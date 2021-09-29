@@ -32,7 +32,7 @@ namespace GradeBook.GradeBooks
             if (grade == 'A') return 'B';
             if (grade == 'B') return 'C';
             if (grade == 'C') return 'D';
-            if (grade == 'D') return 'E';
+            if (grade == 'D') return 'F';
             return 'F';
         }
     }
